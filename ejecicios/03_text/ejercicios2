@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <head>
 <title>Ejemplo de texto estructurado con secciones</title>
 </head>
@@ -10,4 +10,4 @@
 <h2>otra subseccion</h2>
 <p>mas parrafos de contenido...</p>
 </body>
-</html>
+</DOCTYPE>
